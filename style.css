@@ -1,0 +1,30 @@
+.heading{
+    font-size:25px;
+    margin:0;
+    width:100%;
+    box-shadow:7px 7px black;
+
+}
+
+.copy_right_footer{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    background-color:gainsboro;
+    font-size:20px;
+    
+}
+
+canvas{
+    border:5px solid black;
+    border-radius:25px;
+    box-shadow:5px 5px black;
+    
+}
+
+#font{
+    font-size:50px;
+    color:blueviolet;
+    background-color:azure
+}
